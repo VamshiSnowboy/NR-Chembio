@@ -11,7 +11,6 @@ body{
 a{
   text-decoration:none ;
   color: inherit;
-  
 }
 
 .app{
@@ -29,7 +28,7 @@ a{
 }
 
 .h1-white{
-  color: #101010;
+  color: #fdfeff;
   font-family: "Source Sans 3", sans-serif;
   font-optical-sizing: auto;
   font-size: 48px;

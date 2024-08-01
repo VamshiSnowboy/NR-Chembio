@@ -4,6 +4,8 @@ import assets from '../../assets/assets'
 
 const Homepage = () => {
   return (
+    <div className="homepage">
+    
     <div className='hero'>
         <img src={assets.banner_1} alt="" className="banner" />  
 
@@ -72,6 +74,8 @@ const Homepage = () => {
         </div>
         </div>
               
+    </div>
+
     </div>
   )
 }

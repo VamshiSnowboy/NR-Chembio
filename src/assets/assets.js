@@ -10,6 +10,8 @@ import BI_2 from './BI_2.png'
 import BI_3 from './BI_3.png'
 import BI_4 from './BI_4.png'
 import BI_5 from './BI_5.png'
+import NR_LOGO_2 from './NR_LOGO_2.svg'
+import copyright from './copyright.svg'
 
 const assets = {
     NR_LOGO,
@@ -23,7 +25,9 @@ const assets = {
     BI_2,
     BI_3,
     BI_4,
-    BI_5
+    BI_5,
+    NR_LOGO_2,
+    copyright
 }
 
 export default assets;
