@@ -1,0 +1,25 @@
+.navbar{
+    width: 85%;
+    margin: auto;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar .logo{
+    width: 160px;
+}
+
+.navbar-menu{
+    display: flex;
+    list-style: none;
+    gap: 45px;
+    color: #101010;
+    font-family: "Source Sans Pro";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 120%;
+    cursor: pointer;
+}
